@@ -84,5 +84,9 @@ int main(){
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
 
+Logika AND
+#include <iostream>
+using namaspace std;
+
 
 
